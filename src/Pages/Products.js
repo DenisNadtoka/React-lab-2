@@ -13,9 +13,7 @@ export default function Products() {
                 return <Product key={index} id={index} />
             })}
             </CardDeck>
-
-
-
         </>
+        
     )
 }

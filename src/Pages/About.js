@@ -1,9 +1,13 @@
 import React from 'react'
+import { Container } from 'react-bootstrap'
+import OurTeam from '../Components/AboutUs/OurTeam'
+import EmployeeOfTheMonth from '../Components/AboutUs/EmployeeOfTheMonth'
 
 export default function About() {
     return (
-        <div>
-            <h1>About</h1>
-        </div>
+        <Container>
+            <EmployeeOfTheMonth />
+            <OurTeam />            
+        </Container>
     )
 }

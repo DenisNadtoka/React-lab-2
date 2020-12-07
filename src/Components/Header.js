@@ -21,7 +21,7 @@ export default class Header extends Component {
             <>
                 <Navbar bg="dark" expand="sm" variant="dark">
                     <Container>
-                        <Navbar.Brand href="/home">
+                        <Navbar.Brand href="/">
                             <img
                                 alt=""
                                 src={logo}

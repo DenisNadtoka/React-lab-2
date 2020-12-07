@@ -75,6 +75,57 @@
         "price": "7499,00"
       }
       
+    ],
+    "pizzas": [
+      {
+        "id": 1,
+        "title": "С курицей и ананасами",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, курица копченая, ананасы консервированные, пармезан",
+        "price32": "145 грн",
+        "price42": "199 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_19.jpg"
+      },
+      {
+        "id": 2,
+        "title": "4 сезона",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, ветчина, салями, шампиньоны, курица копченая, колбаски охотничьи, пармезан, помидор, болгарский перец, стручковая фасоль",
+        "price32": "145 грн",
+        "price42": "205 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_29.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Азиатская кимчи",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, соус кимчи, куриное филе, лук марс маринованный, капуста кимчи",
+        "price32": "155 грн",
+        "price42": "229 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/f/i/file_211.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Капричиоза",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, шампиньоны, ветчина, помидоры черри, рикотта, маслины",
+        "price32": "129 грн",
+        "price42": "199 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_31.jpg"
+      },
+      {
+        "id": 5,
+        "title": "4 сыра",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, чеддер, пармезан, дор-блю",
+        "price32": "145 грн",
+        "price42": "195 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/9/1/910_500_32_1.jpg"
+      },
+      {
+        "id": 6,
+        "title": "С говядиной и салями",
+        "ingredients": "тесто ферментированное, томатный соус, моцарелла, говядина, Салями, маслины, помидор черри",
+        "price32": "145 грн",
+        "price42": "229 грн",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_27.jpg"
+      }
+
     ]
   }
   
